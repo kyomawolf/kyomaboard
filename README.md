@@ -11,4 +11,5 @@ Since I want to have N-key-rollover there is an diode for every key.
 
 
 This project is compatible with kicad 8. There is a PDF of the schematics available as well.
-
+If you want to use this project feel free to copy or modify it and give attribution where its due.
+Feel free to reach out to me if you have questions, I cant guarantee that any of this works at all ^^'
