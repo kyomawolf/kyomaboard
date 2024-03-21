@@ -1,0 +1,82 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid ed49becb-0769-429b-b23c-550576b19d47)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 13.97 15.24) (size 80.01 179.07) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4949667b-4a57-4e8d-baae-3a2fe47565f3)
+    (property "Sheetname" "Flash & USB" (at 13.97 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "untitled.kicad_sch" (at 13.97 194.8946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "keyboard_pcb"
+        (path "/ed49becb-0769-429b-b23c-550576b19d47" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 95.25 15.24) (size 80.01 179.07) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5931e19f-1b06-495a-b529-814ef3265ac4)
+    (property "Sheetname" "Microcontroller" (at 95.25 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "microcontroller.kicad_sch" (at 95.25 194.8946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "keyboard_pcb"
+        (path "/ed49becb-0769-429b-b23c-550576b19d47" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 93.98) (size 105.41 66.04) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid da117d09-e420-495a-a976-39c5669fb674)
+    (property "Sheetname" "leds" (at 177.8 93.2684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "leds.kicad_sch" (at 177.8 160.6046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "keyboard_pcb"
+        (path "/ed49becb-0769-429b-b23c-550576b19d47" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 15.24) (size 105.41 73.66) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e180997f-9a2a-4d05-8e5f-06135ed22000)
+    (property "Sheetname" "switches" (at 177.8 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "switches.kicad_sch" (at 177.8 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "keyboard_pcb"
+        (path "/ed49becb-0769-429b-b23c-550576b19d47" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

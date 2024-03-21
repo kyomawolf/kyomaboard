@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "switch_footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints/switch_footprints.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "/home/kyomawolf/appimages/kicad/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "custom_switch_smd")(type "KiCad")(uri "${KIPRJMOD}/custom_switch_smd.pretty")(options "")(descr ""))
+  (lib (name "switches_smd")(type "KiCad")(uri "${KIPRJMOD}/switches_smd.pretty")(options "")(descr ""))
+)
