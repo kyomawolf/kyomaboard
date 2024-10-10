@@ -16,6 +16,5 @@ Feel free to reach out to me if you have questions, I cant guarantee that any of
 
 Know Issues and changes:
 - The crystal oscillator is missing and needs to be added
-- be careful with the power footprint, the
 - maybe put everything on the back. backmounted leds are not that expensive and you wont need to solder everything by hand
 - 
